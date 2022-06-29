@@ -1,1 +1,13 @@
 This the 5th file created from AA4 branch
+Git add :- Commits all staged changes to git(main branch)
+Git COmmit :- Add all changes made to tracked files and commits
+Git checkout <branch name> :- create anew branch and swiches to that new branch
+git push :- Transfers your commits from our local repo to remote repo
+Git pull :- Updates your current master branch with latest changes from remote
+Git branch :- Creates a new branch
+Git merge :- mearges the latest changes into current branch
+git rebase:- moves a branch from one commit to another
+git cherry-pick :- Grabs some commmits from one branch and commits to another branch
+git conflict :- Conflict occurs when there are 2 commits to the same file.
+Git stash :- it will store the modified and staged changes
+git clone:- will download the remote repo
